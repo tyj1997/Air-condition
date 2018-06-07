@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\settingwin.o
+./debug\monitorwin.o
+./debug\stasticwin.o
+./debug\managewin.o
+./debug\server.o
+./debug\data.o
+./debug\qrc_res.o
+./debug\moc_mainwindow.o
+./debug\moc_settingwin.o
+./debug\moc_monitorwin.o
+./debug\moc_stasticwin.o
+./debug\moc_managewin.o
+);

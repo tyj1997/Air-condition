@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\settingwin.o
+./release\monitorwin.o
+./release\stasticwin.o
+./release\managewin.o
+./release\server.o
+./release\data.o
+./release\qrc_res.o
+./release\moc_mainwindow.o
+./release\moc_settingwin.o
+./release\moc_monitorwin.o
+./release\moc_stasticwin.o
+./release\moc_managewin.o
+);
